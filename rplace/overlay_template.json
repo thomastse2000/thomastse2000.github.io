@@ -1,0 +1,14 @@
+{
+    "faction": "r/HongKong",
+    "contact": "https://discord.com/invite/qCWYxnKnjj",
+    "templates": [
+      {
+        "name": "White bauhinia",
+        "sources": [
+          "https://swithord.github.io/rplace/template.png"
+        ],
+        "x": 2279,
+        "y": 1129
+      }
+    ]
+}
