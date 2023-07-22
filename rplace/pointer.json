@@ -1,11 +1,11 @@
 {
     "bot": [
-        "https://swithord.github.io/rplace/template.png"
+        "https://swithord.github.io/rplace/template2.png"
     ],
     "mask": [
-        "https://swithord.github.io/rplace/mask.png"
+        "https://swithord.github.io/rplace/mask2.png"
     ],
-    "offX": 780,
-    "offY": 1084,
+    "offX": 779,
+    "offY": 1076,
     "mux": false
 }
