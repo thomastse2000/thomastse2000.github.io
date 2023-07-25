@@ -5,8 +5,8 @@
     "mask": [
         "https://thomastse2000.github.io/rplace/mask3.png"
     ],
-    "offX": 41,
-    "offY": 1500,
+    "offX": 0,
+    "offY": 0,
     "etag": 2,
     "name": "hk",
     "mux": false
