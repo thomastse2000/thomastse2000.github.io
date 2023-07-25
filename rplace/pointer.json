@@ -1,12 +1,12 @@
 {
     "bot": [
-        "https://thomastse2000.github.io/rplace/template2.png"
+        "https://thomastse2000.github.io/rplace/template3.png"
     ],
     "mask": [
-        "https://thomastse2000.github.io/rplace/mask2.png"
+        "https://thomastse2000.github.io/rplace/mask3.png"
     ],
-    "offX": 661,
-    "offY": 1885,
+    "offX": 41,
+    "offY": 1500,
     "etag": 1,
     "name": "hk",
     "mux": false
